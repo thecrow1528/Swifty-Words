@@ -22,6 +22,7 @@
 		3921B7111FBCADEB0013484F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3921B7141FBCADEB0013484F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3921B7161FBCADEB0013484F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3921B71C1FBCB0580013484F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +41,7 @@
 			children = (
 				3921B7091FBCADEB0013484F /* Swifty Words */,
 				3921B7081FBCADEB0013484F /* Products */,
+				3921B71C1FBCB0580013484F /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
